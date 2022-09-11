@@ -8,3 +8,9 @@ Horiseason wished to give its page abilities to navigate to different sections.
 
 The documents within contain Horiseon's website standards.
 
+Horiseon's Website can be found here:
+https://mattflug.github.io/Horiseon-Site/
+
+Below is an image of the porfolio.
+
+![alt text](./assets/first-hw-image.png)
